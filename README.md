@@ -36,6 +36,5 @@
 
 ## 🔗 참고 링크
 
-- [GitHub](https://github.com/Inp06Prj/Prj-06)
 - [Figma 디자인](https://www.figma.com/file/t2qhXn1T1c8NODsaDbvijM/6조-웹서비스?type=design&node-id=601%3A10&mode=design&t=AU7zxDBsik99hfmf-1)
 - [프로젝트 노션](https://app.notion.com/p/Dukbookhi-1814ceab4f82811194ddce9414c21730?source=copy_link)
